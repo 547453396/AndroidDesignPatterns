@@ -1,6 +1,4 @@
-# AndroidDesignPatterns
-###设计模式总结
-***
+# AndroidDesignPatterns 设计模式总结
 
 	1. 单例模式
 	2. 工厂模式
